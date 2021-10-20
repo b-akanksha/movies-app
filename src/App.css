@@ -15,26 +15,27 @@
   padding: 1%;
 }
 
-.tab-div {
+.MuiTabs-flexContainer.MuiTabs-flexContainerVertical {
   margin: 8px;
 }
 
-.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.Mui-selected {
   color: #fff !important;
   font-family: "Abril Fatface", cursive;
   font-weight: bold;
   font-size: 16px;
 }
 
-.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+.MuiTab-root {
   color: #fff !important;
   font-family: "Abril Fatface", cursive;
   font-size: 16px;
 }
 
-.css-10d9dml-MuiTabs-indicator {
+.MuiTabs-indicator {
   background-color: #fff !important;
 }
+
 
 .css-35zqo5-MuiTabs-root {
   min-width: fit-content;
